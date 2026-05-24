@@ -1,4 +1,4 @@
-# Cosmetic Process Optimization: Dual-Engine Multivariate Analysis (MANOVA)
+# Cosmetic Process Optimisation: Dual-Engine Multivariate Analysis (MANOVA)
 
 An industrial data analytics project that evaluates the multi-variable quality profile of a cosmetic emulsion formulation using an interactive Excel process dashboard alongside a Python-driven Multivariate Analysis of Variance (MANOVA) statistical engine.
 
