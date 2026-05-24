@@ -56,8 +56,8 @@ The Python MANOVA script generated the following multivariate outputs based on *
 
 ## 📂 Repository Structure
 ```text
-├── cosmetic_process_optimization.csv    # Raw experimental dataset (120 batches)
-├── process_dashboard.xlsx               # Excel file with Pivot Tables and Slicers
+├── cosmetic_process_optimisation.csv    # Raw experimental dataset (120 batches)
+├── cosmetics_process_optimisation.csv.xlsx               # Excel file with Pivot Tables and Slicers
 ├── manova_engine.py                     # Python statistical testing pipeline
 ├── process_optimization_plots.png       # Generated interaction bar charts
 └── README.md                            # Project documentation
